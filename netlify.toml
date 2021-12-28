@@ -1,7 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = "http://majordomo.mooo.com:5000/:splat"
-  query = {q = ":q"}
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
+  from = "https://elated-brattain-788852.netlify.app"
+  to = "http://majordomo.mooo.com:5000/"
+  status = 301
+  force = true 
