@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://elated-brattain-788852.netlify.app"
+  from = "/*"
   to = "http://majordomo.mooo.com:5000/"
   status = 301
   force = true 
