@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/*"
+  to = "http://majordomo.mooo.com:5000/:splat"
+  query = {q = ":q"}
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
