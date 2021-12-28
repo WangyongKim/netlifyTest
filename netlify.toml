@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "http://majordomo.mooo.com:5000/"
+  to = "http://majordomo.mooo.com:5000/:splat"
   force = true 
