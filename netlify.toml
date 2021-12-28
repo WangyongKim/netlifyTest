@@ -1,5 +1,4 @@
 [[redirects]]
   from = "/*"
   to = "http://majordomo.mooo.com:5000/"
-  status = 301
   force = true 
